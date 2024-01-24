@@ -1,5 +1,6 @@
 # Nand-To-Tetris
-### An online course offered by the University of Jerusalem that allows the building of a computer from the very basic logic gates. This file contains the descriptions of the work done during each project.
+
+### An online course offered by the University of Jerusalem that allows the building of a computer from the very basic logic gates. This repository contains the work done during each project.
 
 ## Overview of each project
 
